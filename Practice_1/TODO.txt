@@ -1,0 +1,17 @@
+Javascript
+
+1. Populate table with data.
+2. Use any button to display alert
+3. Use input, type something, and use a button and on that button click, show the input data in Alert
+
+
+
+HTML
+
+1. Put any radio button
+2. Put any combo box
+
+CSS
+
+1. Change website backgroud to peach
+2. Change color of heading after taking the mouse near it

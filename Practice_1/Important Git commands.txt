@@ -1,0 +1,12 @@
+To copy the code for the first time
+1. open cmd
+2. git clone <code url>
+
+To take the latest code 
+1. open cmd (and go to code's location)
+2. git pull
+
+To  push your code to github
+1. git add -A
+2. git commit -m "message"
+3. git push

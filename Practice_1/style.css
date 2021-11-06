@@ -1,0 +1,30 @@
+tbody{
+    background-color: darkgray;
+}
+
+thead{
+    background-color: darkseagreen;
+}
+
+#myTable{
+    border-collapse: collapse;
+    
+}
+
+#myTable, td{
+    border:1px solid white;
+    width: 30%;
+    padding:8px;
+}
+
+tr:hover{
+    background-color: deepskyblue;
+}
+
+td:hover{
+    background-color: gold;
+}
+
+body{
+    background-color: blue;
+}
