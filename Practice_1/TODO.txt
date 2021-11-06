@@ -1,6 +1,6 @@
 Javascript
 
-1. Populate table with data.
+1. Populate table with data. - Pending
 2. Use any button to display alert
 3. Use input, type something, and use a button and on that button click, show the input data in Alert
 
